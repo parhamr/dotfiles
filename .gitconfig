@@ -1,0 +1,11 @@
+[user]
+	name = parhamr
+	email = reid@copiousinc.com
+[push]
+	default = simple
+[color]
+	ui = true
+[core]
+	autocrlf = input
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit
